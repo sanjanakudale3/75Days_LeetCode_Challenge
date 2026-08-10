@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -33,6 +34,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -64,6 +66,7 @@
 | [0088-merge-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |

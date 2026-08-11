@@ -4,11 +4,11 @@ class Solution {
         HashMap<Integer,Integer> hm = new HashMap <>();
 
         for(int i = 0; i<nums.length; i++){
-
-            if(hm.containsKey(nums[i])){
+                int num = nums[i];
+            if(hm.containsKey(num)){
                 return true;
             }else{
-                hm.put(nums[i],1);
+                hm.put(num,1);
             }
         }
         return false;

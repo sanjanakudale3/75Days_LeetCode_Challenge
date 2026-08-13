@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0075-sort-colors) |
@@ -58,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0268-missing-number) |
 ## Bit Manipulation

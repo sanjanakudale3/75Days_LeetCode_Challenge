@@ -21,6 +21,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -102,9 +104,14 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0048-rotate-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

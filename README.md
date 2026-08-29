@@ -33,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -122,6 +123,7 @@
 | [0118-pascals-triangle](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Simulation
 |  |
 | ------- |

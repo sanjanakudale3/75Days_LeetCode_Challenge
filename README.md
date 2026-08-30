@@ -167,4 +167,12 @@
 | [0141-linked-list-cycle](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0876-middle-of-the-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

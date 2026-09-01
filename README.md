@@ -36,6 +36,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |

@@ -32,6 +32,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0118-pascals-triangle](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
@@ -181,4 +184,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

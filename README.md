@@ -37,6 +37,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1929-concatenation-of-array) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |

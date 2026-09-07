@@ -187,6 +187,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
@@ -204,4 +205,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

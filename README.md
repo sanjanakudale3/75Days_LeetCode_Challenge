@@ -178,6 +178,7 @@
 | [0125-valid-palindrome](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -221,4 +222,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0986-interval-list-intersections) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

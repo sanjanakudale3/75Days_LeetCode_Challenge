@@ -95,6 +95,7 @@
 | [0217-contains-duplicate](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Pigeonhole Principle
@@ -221,6 +224,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |

@@ -39,6 +39,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -244,5 +245,10 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

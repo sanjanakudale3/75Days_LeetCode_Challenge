@@ -209,6 +209,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0203-remove-linked-list-elements) |

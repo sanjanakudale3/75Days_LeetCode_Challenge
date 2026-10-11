@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0018-4sum) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0018-4sum) |
@@ -274,4 +276,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

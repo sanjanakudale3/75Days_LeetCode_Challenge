@@ -86,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0189-rotate-array) |
@@ -216,6 +217,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0092-reverse-linked-list-ii) |
@@ -251,6 +253,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0234-palindrome-linked-list) |

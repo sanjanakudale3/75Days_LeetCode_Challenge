@@ -20,9 +20,6 @@ class Solution {
         preorder(root , result);
         return result;
     }
-        
-
-
         void preorder( TreeNode root , List<Integer> result ){
             if(root == null){
                 return ; 

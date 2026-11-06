@@ -44,6 +44,7 @@
 | [0739-daily-temperatures](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0986-interval-list-intersections) |
@@ -112,6 +113,7 @@
 | [0525-contiguous-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
@@ -182,6 +184,7 @@
 | [0525-contiguous-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -196,6 +199,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |

@@ -305,6 +305,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -314,6 +315,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -338,4 +341,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/sanjanakudale3/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
